@@ -1,0 +1,1396 @@
+2021-11-22T16:32:38.184Z [x-code] [31merror[39m: uncaughtException: flash is not defined
+ReferenceError: flash is not defined
+    at Object.<anonymous> (F:/Practice/stock_api/app.js:43:5)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at loader (F:\Practice\stock_api\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.<computed> [as .js] (F:\Practice\stock_api\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (F:/Practice/stock_api/bin/www:6:13)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-22T16:33:05.415Z [x-code] [31merror[39m: uncaughtException: flash is not defined
+ReferenceError: flash is not defined
+    at Object.<anonymous> (F:/Practice/stock_api/app.js:69:5)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at loader (F:\Practice\stock_api\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.<computed> [as .js] (F:\Practice\stock_api\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (F:/Practice/stock_api/bin/www:6:13)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-22T16:33:55.394Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/routes/router.js: Unexpected token (8:6)
+SyntaxError: F:/Practice/stock_api/api/src/routes/router.js: Unexpected token (8:6)
+[0m [90m  6 | [39m
+ [90m  7 | [39m[90m//HOME PAGE ROUTER[39m
+[31m[1m>[22m[39m[90m  8 | [39mrouter[33m.[39mget([32m'/'[39m[33m,[39m (req[33m,[39m res) [33m=>[39m {
+ [90m    | [39m      [31m[1m^[22m[39m
+ [90m  9 | [39m    res[33m.[39msend([32m'hi from base page'[39m)
+ [90m 10 | [39m})
+ [90m 11 | [39m[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$1.parseVar (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2342:12)
+    at Parser.pp$1.parseVarStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2169:8)
+    at Parser.pp$1.parseStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1861:19)
+    at Parser.pp$1.parseBlockBody (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2268:21)
+    at Parser.pp$1.parseTopLevel (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1778:8)
+    at Parser.parse (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1673:17)
+    at parse (F:\Practice\stock_api\node_modules\babylon\lib\index.js:7305:37)
+    at File.parse (F:\Practice\stock_api\node_modules\babel-core\lib\transformation\file\index.js:485:15)
+2021-11-22T16:33:56.939Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/routes/router.js: Unexpected token (8:0)
+SyntaxError: F:/Practice/stock_api/api/src/routes/router.js: Unexpected token (8:0)
+[0m [90m  6 | [39m
+ [90m  7 | [39m[90m//HOME PAGE ROUTER[39m
+[31m[1m>[22m[39m[90m  8 | [39mrouter[33m.[39mget([32m'/'[39m[33m,[39m (req[33m,[39m res) [33m=>[39m {
+ [90m    | [39m[31m[1m^[22m[39m
+ [90m  9 | [39m    res[33m.[39msend([32m'hi from base page'[39m)
+ [90m 10 | [39m})
+ [90m 11 | [39m[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$1.parseVar (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2342:12)
+    at Parser.pp$1.parseVarStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2169:8)
+    at Parser.pp$1.parseStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1861:19)
+    at Parser.pp$1.parseBlockBody (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2268:21)
+    at Parser.pp$1.parseTopLevel (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1778:8)
+    at Parser.parse (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1673:17)
+    at parse (F:\Practice\stock_api\node_modules\babylon\lib\index.js:7305:37)
+    at File.parse (F:\Practice\stock_api\node_modules\babel-core\lib\transformation\file\index.js:485:15)
+2021-11-22T16:34:00.448Z [x-code] [31merror[39m: uncaughtException: re is not defined
+ReferenceError: re is not defined
+    at Object.<anonymous> (F:/Practice/stock_api/api/src/routes/router.js:4:20)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at loader (F:\Practice\stock_api\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.<computed> [as .js] (F:\Practice\stock_api\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at module.exports (F:/Practice/stock_api/api/src/index.js:2:22)
+    at module.exports (F:/Practice/stock_api/api/index.js:5:5)
+2021-11-22T16:34:16.164Z [x-code] [31merror[39m: uncaughtException: Cannot read property 'length' of undefined
+TypeError: Cannot read property 'length' of undefined
+    at pathtoRegexp (F:\Practice\stock_api\node_modules\path-to-regexp\index.js:63:49)
+    at new Layer (F:\Practice\stock_api\node_modules\express\lib\router\layer.js:45:17)
+    at Function.route (F:\Practice\stock_api\node_modules\express\lib\router\index.js:494:15)
+    at Function.proto.<computed> [as get] (F:\Practice\stock_api\node_modules\express\lib\router\index.js:509:22)
+    at Object.<anonymous> (F:/Practice/stock_api/api/src/routes/router.js:13:8)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at loader (F:\Practice\stock_api\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.<computed> [as .js] (F:\Practice\stock_api\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-22T16:34:24.480Z [x-code] [31merror[39m: uncaughtException: St is not defined
+ReferenceError: St is not defined
+    at Object.<anonymous> (F:/Practice/stock_api/api/src/routes/router.js:13:22)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at loader (F:\Practice\stock_api\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.<computed> [as .js] (F:\Practice\stock_api\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at module.exports (F:/Practice/stock_api/api/src/index.js:2:22)
+    at module.exports (F:/Practice/stock_api/api/index.js:5:5)
+2021-11-22T16:54:56.044Z [x-code] [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (F:\Practice\stock_api\node_modules\express\lib\router\route.js:202:15)
+    at Function.proto.<computed> [as get] (F:\Practice\stock_api\node_modules\express\lib\router\index.js:510:19)
+    at Object.<anonymous> (F:/Practice/stock_api/api/src/routes/router.js:13:8)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at loader (F:\Practice\stock_api\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.<computed> [as .js] (F:\Practice\stock_api\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-22T16:57:21.364Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected ; (61:14)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected ; (61:14)
+[0m [90m 59 | [39m          req[33m.[39mcheckBody([32m'Type'[39m[33m,[39m [33mMessage[39m[33m.[39m[33mSALE_USER_ID_REQ[39m)[33m.[39m
+ [90m 60 | [39m
+[31m[1m>[22m[39m[90m 61 | [39m          let data [33m=[39m await [33mStocks[39m[33m.[39mfindAll()
+ [90m    | [39m              [31m[1m^[22m[39m
+ [90m 62 | [39m
+ [90m 63 | [39m
+ [90m 64 | [39m          [36mif[39m (data) {[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp.semicolon (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1742:38)
+    at Parser.pp$1.parseExpressionStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2236:8)
+    at Parser.pp$1.parseStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1911:17)
+    at Parser.pp$1.parseBlockBody (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2268:21)
+    at Parser.pp$1.parseBlock (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2247:8)
+    at Parser.pp$3.parseFunctionBody (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4235:22)
+    at Parser.pp$3.parseArrowExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4190:8)
+    at Parser.pp$3.parseAsyncArrowFromCallExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3590:15)
+2021-11-22T16:59:52.235Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (61:10)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (61:10)
+[0m [90m 59 | [39m          req[33m.[39mcheckBody([32m'Type'[39m[33m,[39m [33mMessage[39m[33m.[39m[33mSALE_USER_ID_REQ[39m)[33m.[39mcustom(value [33m=>[39m {
+ [90m 60 | [39m            [36mif[39m (value )
+[31m[1m>[22m[39m[90m 61 | [39m          })
+ [90m    | [39m          [31m[1m^[22m[39m
+ [90m 62 | [39m
+ [90m 63 | [39m          let data [33m=[39m await [33mStocks[39m[33m.[39mfindAll()
+ [90m 64 | [39m[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3306:19)
+    at Parser.pp$1.parseStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1906:19)
+2021-11-22T16:59:54.076Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (60:24)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (60:24)
+[0m [90m 58 | [39m          req[33m.[39mcheckBody([32m'Type'[39m[33m,[39m [33mMessage[39m[33m.[39m[33mSALE_USER_ID_REQ[39m)[33m.[39mnotEmpty()
+ [90m 59 | [39m          req[33m.[39mcheckBody([32m'Type'[39m[33m,[39m [33mMessage[39m[33m.[39m[33mSALE_USER_ID_REQ[39m)[33m.[39mcustom(value [33m=>[39m {
+[31m[1m>[22m[39m[90m 60 | [39m            [36mif[39m (value [33m!=[39m)
+ [90m    | [39m                        [31m[1m^[22m[39m
+ [90m 61 | [39m          })
+ [90m 62 | [39m
+ [90m 63 | [39m          let data [33m=[39m await [33mStocks[39m[33m.[39mfindAll()[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOp (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3435:42)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3408:17)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3306:19)
+2021-11-22T17:00:01.806Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (60:41)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (60:41)
+[0m [90m 58 | [39m          req[33m.[39mcheckBody([32m'Type'[39m[33m,[39m [33mMessage[39m[33m.[39m[33mSALE_USER_ID_REQ[39m)[33m.[39mnotEmpty()
+ [90m 59 | [39m          req[33m.[39mcheckBody([32m'Type'[39m[33m,[39m [33mMessage[39m[33m.[39m[33mSALE_USER_ID_REQ[39m)[33m.[39mcustom(value [33m=>[39m {
+[31m[1m>[22m[39m[90m 60 | [39m            [36mif[39m (value [33m!=[39m[32m'Buy'[39m [33m||[39m value [33m!=[39m)
+ [90m    | [39m                                         [31m[1m^[22m[39m
+ [90m 61 | [39m          })
+ [90m 62 | [39m
+ [90m 63 | [39m          let data [33m=[39m await [33mStocks[39m[33m.[39mfindAll()[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOp (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3435:42)
+    at Parser.pp$3.parseExprOp (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3435:25)
+    at Parser.pp$3.parseExprOp (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3438:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3408:17)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+2021-11-22T17:00:04.581Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (61:10)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (61:10)
+[0m [90m 59 | [39m          req[33m.[39mcheckBody([32m'Type'[39m[33m,[39m [33mMessage[39m[33m.[39m[33mSALE_USER_ID_REQ[39m)[33m.[39mcustom(value [33m=>[39m {
+ [90m 60 | [39m            [36mif[39m (value [33m!=[39m[32m'Buy'[39m [33m||[39m value [33m!=[39m[32m'Sell'[39m)
+[31m[1m>[22m[39m[90m 61 | [39m          })
+ [90m    | [39m          [31m[1m^[22m[39m
+ [90m 62 | [39m
+ [90m 63 | [39m          let data [33m=[39m await [33mStocks[39m[33m.[39mfindAll()
+ [90m 64 | [39m[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3306:19)
+    at Parser.pp$1.parseStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1906:19)
+2021-11-22T17:00:10.184Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (61:10)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (61:10)
+[0m [90m 59 | [39m          req[33m.[39mcheckBody([32m'Type'[39m[33m,[39m [33mMessage[39m[33m.[39m[33mSALE_USER_ID_REQ[39m)[33m.[39mcustom(value [33m=>[39m {
+ [90m 60 | [39m            [36mif[39m (value [33m!=[39m[32m'Buy'[39m [33m||[39m value [33m!=[39m[32m'Sell'[39m) 
+[31m[1m>[22m[39m[90m 61 | [39m          })
+ [90m    | [39m          [31m[1m^[22m[39m
+ [90m 62 | [39m
+ [90m 63 | [39m          let data [33m=[39m await [33mStocks[39m[33m.[39mfindAll()
+ [90m 64 | [39m[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3306:19)
+    at Parser.pp$1.parseStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1906:19)
+2021-11-22T17:00:12.356Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (62:10)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (62:10)
+[0m [90m 60 | [39m            [36mif[39m (value [33m!=[39m[32m'Buy'[39m [33m||[39m value [33m!=[39m[32m'Sell'[39m)
+ [90m 61 | [39m            
+[31m[1m>[22m[39m[90m 62 | [39m          })
+ [90m    | [39m          [31m[1m^[22m[39m
+ [90m 63 | [39m
+ [90m 64 | [39m          let data [33m=[39m await [33mStocks[39m[33m.[39mfindAll()
+ [90m 65 | [39m[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3306:19)
+    at Parser.pp$1.parseStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1906:19)
+2021-11-22T17:01:36.325Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/routes/router.js: Unexpected token (14:33)
+SyntaxError: F:/Practice/stock_api/api/src/routes/router.js: Unexpected token (14:33)
+[0m [90m 12 | [39m
+ [90m 13 | [39mrouter[33m.[39mget([32m'/trades'[39m[33m,[39m[33mStocks_ctl[39m[33m.[39mget_stocks_All)
+[31m[1m>[22m[39m[90m 14 | [39mrouter[33m.[39mpost([32m'/trades'[39m[33m,[39m[33mStocks_ctl[39m[33m.[39m)
+ [90m    | [39m                                 [31m[1m^[22m[39m
+ [90m 15 | [39m
+ [90m 16 | [39m
+ [90m 17 | [39m[90m// exports router[39m[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseIdentifier (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4332:10)
+    at Parser.pp$3.parseSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3517:30)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseExprListItem (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4312:16)
+2021-11-22T17:05:13.119Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/config/messages.js: Unexpected token, expected , (3:4)
+SyntaxError: F:/Practice/stock_api/config/messages.js: Unexpected token, expected , (3:4)
+[0m [90m 1 | [39mmodule[33m.[39mexports [33m=[39m {
+ [90m 2 | [39m    [33mNOT_FOUND[39m[33m:[39m[32m"NOT FOUND"[39m
+[31m[1m>[22m[39m[90m 3 | [39m    [33mTYPE_ERROR[39m[33m:[39m[32m""[39m
+ [90m   | [39m    [31m[1m^[22m[39m
+ [90m 4 | [39m}[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp.expect (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1749:33)
+    at Parser.pp$3.parseObj (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3978:12)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3719:19)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+2021-11-22T17:14:23.966Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (64:70)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (64:70)
+[0m [90m 62 | [39m          req[33m.[39mcheckBody([32m'shares'[39m[33m,[39m [33mMessage[39m[33m.[39m[33mShares_MISSING[39m)[33m.[39mnotEmpty()
+ [90m 63 | [39m          req[33m.[39mcheckBody([32m'price'[39m[33m,[39m [33mMessage[39m[33m.[39m[33mPRICE_MISSING[39m)[33m.[39mnotEmpty()
+[31m[1m>[22m[39m[90m 64 | [39m          req[33m.[39mcheckBody([32m'shares'[39m[33m,[39m [33mMessage[39m[33m.[39m[33mShare_value_range[39m)[33m.[39misfloat({{ min[33m:[39m [35m5[39m[33m,[39m max[33m:[39m [35m5[39m }})
+ [90m    | [39m                                                                      [31m[1m^[22m[39m
+ [90m 65 | [39m
+ [90m 66 | [39m          [36mvar[39m error [33m=[39m req[33m.[39mvalidationErrors()
+ [90m 67 | [39m                [36mif[39m (error [33m&&[39m error[33m.[39mlength) {[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseIdentifier (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4332:10)
+    at Parser.pp$3.parsePropertyName (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4156:96)
+    at Parser.pp$3.parseObj (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4045:12)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3719:19)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+2021-11-22T17:14:27.776Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (64:70)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (64:70)
+[0m [90m 62 | [39m          req[33m.[39mcheckBody([32m'shares'[39m[33m,[39m [33mMessage[39m[33m.[39m[33mShares_MISSING[39m)[33m.[39mnotEmpty()
+ [90m 63 | [39m          req[33m.[39mcheckBody([32m'price'[39m[33m,[39m [33mMessage[39m[33m.[39m[33mPRICE_MISSING[39m)[33m.[39mnotEmpty()
+[31m[1m>[22m[39m[90m 64 | [39m          req[33m.[39mcheckBody([32m'shares'[39m[33m,[39m [33mMessage[39m[33m.[39m[33mShare_value_range[39m)[33m.[39misfloat({{ min[33m:[39m [35m1[39m[33m,[39m max[33m:[39m [35m5[39m }})
+ [90m    | [39m                                                                      [31m[1m^[22m[39m
+ [90m 65 | [39m
+ [90m 66 | [39m          [36mvar[39m error [33m=[39m req[33m.[39mvalidationErrors()
+ [90m 67 | [39m                [36mif[39m (error [33m&&[39m error[33m.[39mlength) {[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseIdentifier (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4332:10)
+    at Parser.pp$3.parsePropertyName (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4156:96)
+    at Parser.pp$3.parseObj (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4045:12)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3719:19)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+2021-11-22T17:14:30.142Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (64:70)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (64:70)
+[0m [90m 62 | [39m          req[33m.[39mcheckBody([32m'shares'[39m[33m,[39m [33mMessage[39m[33m.[39m[33mShares_MISSING[39m)[33m.[39mnotEmpty()
+ [90m 63 | [39m          req[33m.[39mcheckBody([32m'price'[39m[33m,[39m [33mMessage[39m[33m.[39m[33mPRICE_MISSING[39m)[33m.[39mnotEmpty()
+[31m[1m>[22m[39m[90m 64 | [39m          req[33m.[39mcheckBody([32m'shares'[39m[33m,[39m [33mMessage[39m[33m.[39m[33mShare_value_range[39m)[33m.[39misfloat({{ min[33m:[39m [35m1[39m[33m,[39m max[33m:[39m [35m100[39m }})
+ [90m    | [39m                                                                      [31m[1m^[22m[39m
+ [90m 65 | [39m
+ [90m 66 | [39m          [36mvar[39m error [33m=[39m req[33m.[39mvalidationErrors()
+ [90m 67 | [39m                [36mif[39m (error [33m&&[39m error[33m.[39mlength) {[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseIdentifier (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4332:10)
+    at Parser.pp$3.parsePropertyName (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4156:96)
+    at Parser.pp$3.parseObj (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4045:12)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3719:19)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+2021-11-22T17:14:31.423Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (64:70)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (64:70)
+[0m [90m 62 | [39m          req[33m.[39mcheckBody([32m'shares'[39m[33m,[39m [33mMessage[39m[33m.[39m[33mShares_MISSING[39m)[33m.[39mnotEmpty()
+ [90m 63 | [39m          req[33m.[39mcheckBody([32m'price'[39m[33m,[39m [33mMessage[39m[33m.[39m[33mPRICE_MISSING[39m)[33m.[39mnotEmpty()
+[31m[1m>[22m[39m[90m 64 | [39m          req[33m.[39mcheckBody([32m'shares'[39m[33m,[39m [33mMessage[39m[33m.[39m[33mShare_value_range[39m)[33m.[39misfloat({{ min[33m:[39m [35m1[39m[33m,[39m max[33m:[39m [35m100[39m })
+ [90m    | [39m                                                                      [31m[1m^[22m[39m
+ [90m 65 | [39m
+ [90m 66 | [39m          [36mvar[39m error [33m=[39m req[33m.[39mvalidationErrors()
+ [90m 67 | [39m                [36mif[39m (error [33m&&[39m error[33m.[39mlength) {[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseIdentifier (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4332:10)
+    at Parser.pp$3.parsePropertyName (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4156:96)
+    at Parser.pp$3.parseObj (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4045:12)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3719:19)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+2021-11-22T17:17:36.108Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (65:17)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (65:17)
+[0m [90m 63 | [39m          req[33m.[39mcheckBody([32m'price'[39m[33m,[39m [33mMessage[39m[33m.[39m[33mPRICE_MISSING[39m)[33m.[39mnotEmpty()
+ [90m 64 | [39m
+[31m[1m>[22m[39m[90m 65 | [39m          [36mif[39m(req[33m.[39m)
+ [90m    | [39m                 [31m[1m^[22m[39m
+ [90m 66 | [39m
+ [90m 67 | [39m          [36mvar[39m error [33m=[39m req[33m.[39mvalidationErrors()
+ [90m 68 | [39m                [36mif[39m (error [33m&&[39m error[33m.[39mlength) {[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseIdentifier (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4332:10)
+    at Parser.pp$3.parseSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3517:30)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3306:19)
+2021-11-22T17:17:47.316Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (65:30)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (65:30)
+[0m [90m 63 | [39m          req[33m.[39mcheckBody([32m'price'[39m[33m,[39m [33mMessage[39m[33m.[39m[33mPRICE_MISSING[39m)[33m.[39mnotEmpty()
+ [90m 64 | [39m
+[31m[1m>[22m[39m[90m 65 | [39m          [36mif[39m(req[33m.[39mbody[33m.[39mshares [33m>[39m)
+ [90m    | [39m                              [31m[1m^[22m[39m
+ [90m 66 | [39m
+ [90m 67 | [39m          [36mvar[39m error [33m=[39m req[33m.[39mvalidationErrors()
+ [90m 68 | [39m                [36mif[39m (error [33m&&[39m error[33m.[39mlength) {[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOp (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3435:42)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3408:17)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3306:19)
+2021-11-22T17:17:53.709Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (65:40)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (65:40)
+[0m [90m 63 | [39m          req[33m.[39mcheckBody([32m'price'[39m[33m,[39m [33mMessage[39m[33m.[39m[33mPRICE_MISSING[39m)[33m.[39mnotEmpty()
+ [90m 64 | [39m
+[31m[1m>[22m[39m[90m 65 | [39m          [36mif[39m(req[33m.[39mbody[33m.[39mshares [33m>=[39m[35m1[39m [33m&&[39m req[33m.[39m)
+ [90m    | [39m                                        [31m[1m^[22m[39m
+ [90m 66 | [39m
+ [90m 67 | [39m          [36mvar[39m error [33m=[39m req[33m.[39mvalidationErrors()
+ [90m 68 | [39m                [36mif[39m (error [33m&&[39m error[33m.[39mlength) {[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseIdentifier (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4332:10)
+    at Parser.pp$3.parseSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3517:30)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOp (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3435:42)
+    at Parser.pp$3.parseExprOp (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3438:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3408:17)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+2021-11-22T17:17:57.510Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (65:39)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (65:39)
+[0m [90m 63 | [39m          req[33m.[39mcheckBody([32m'price'[39m[33m,[39m [33mMessage[39m[33m.[39m[33mPRICE_MISSING[39m)[33m.[39mnotEmpty()
+ [90m 64 | [39m
+[31m[1m>[22m[39m[90m 65 | [39m          [36mif[39m(req[33m.[39mbody[33m.[39mshares [33m<[39m[35m1[39m [33m&&[39m req[33m.[39m)
+ [90m    | [39m                                       [31m[1m^[22m[39m
+ [90m 66 | [39m
+ [90m 67 | [39m          [36mvar[39m error [33m=[39m req[33m.[39mvalidationErrors()
+ [90m 68 | [39m                [36mif[39m (error [33m&&[39m error[33m.[39mlength) {[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseIdentifier (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4332:10)
+    at Parser.pp$3.parseSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3517:30)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOp (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3435:42)
+    at Parser.pp$3.parseExprOp (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3438:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3408:17)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+2021-11-22T17:18:32.994Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (68:10)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (68:10)
+[0m [90m 66 | [39m            [36mreturn[39m nextCall ({
+ [90m 67 | [39m              message[33m:[39m [33mMessage[39m[33m.[39m
+[31m[1m>[22m[39m[90m 68 | [39m          })
+ [90m    | [39m          [31m[1m^[22m[39m
+ [90m 69 | [39m          }
+ [90m 70 | [39m
+ [90m 71 | [39m          [36mvar[39m error [33m=[39m req[33m.[39mvalidationErrors()[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseIdentifier (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4332:10)
+    at Parser.pp$3.parseSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3517:30)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseObjectProperty (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4115:99)
+2021-11-22T17:21:47.545Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (70:13)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (70:13)
+[0m [90m 68 | [39m          })
+ [90m 69 | [39m          }
+[31m[1m>[22m[39m[90m 70 | [39m          [36mif[39m()
+ [90m    | [39m             [31m[1m^[22m[39m
+ [90m 71 | [39m
+ [90m 72 | [39m          [36mvar[39m error [33m=[39m req[33m.[39mvalidationErrors()
+ [90m 73 | [39m                [36mif[39m (error [33m&&[39m error[33m.[39mlength) {[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3306:19)
+    at Parser.pp$3.parseParenExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3789:18)
+2021-11-22T17:21:51.127Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (70:22)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (70:22)
+[0m [90m 68 | [39m          })
+ [90m 69 | [39m          }
+[31m[1m>[22m[39m[90m 70 | [39m          [36mif[39m(req[33m.[39mbody[33m.[39m)
+ [90m    | [39m                      [31m[1m^[22m[39m
+ [90m 71 | [39m
+ [90m 72 | [39m          [36mvar[39m error [33m=[39m req[33m.[39mvalidationErrors()
+ [90m 73 | [39m                [36mif[39m (error [33m&&[39m error[33m.[39mlength) {[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseIdentifier (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4332:10)
+    at Parser.pp$3.parseSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3517:30)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3306:19)
+2021-11-22T17:22:02.000Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (70:29)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (70:29)
+[0m [90m 68 | [39m          })
+ [90m 69 | [39m          }
+[31m[1m>[22m[39m[90m 70 | [39m          [36mif[39m(req[33m.[39mbody[33m.[39m[33mType[39m [33m!=[39m)
+ [90m    | [39m                             [31m[1m^[22m[39m
+ [90m 71 | [39m
+ [90m 72 | [39m          [36mvar[39m error [33m=[39m req[33m.[39mvalidationErrors()
+ [90m 73 | [39m                [36mif[39m (error [33m&&[39m error[33m.[39mlength) {[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOp (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3435:42)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3408:17)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3306:19)
+2021-11-22T17:22:10.785Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (70:48)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (70:48)
+[0m [90m 68 | [39m          })
+ [90m 69 | [39m          }
+[31m[1m>[22m[39m[90m 70 | [39m          [36mif[39m(req[33m.[39mbody[33m.[39m[33mType[39m [33m!=[39m[32m'sell'[39m [33m||[39m req[33m.[39mbody[33m.[39m)
+ [90m    | [39m                                                [31m[1m^[22m[39m
+ [90m 71 | [39m
+ [90m 72 | [39m          [36mvar[39m error [33m=[39m req[33m.[39mvalidationErrors()
+ [90m 73 | [39m                [36mif[39m (error [33m&&[39m error[33m.[39mlength) {[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseIdentifier (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4332:10)
+    at Parser.pp$3.parseSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3517:30)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOp (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3435:42)
+    at Parser.pp$3.parseExprOp (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3438:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3408:17)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+2021-11-22T17:22:13.684Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (70:55)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (70:55)
+[0m [90m 68 | [39m          })
+ [90m 69 | [39m          }
+[31m[1m>[22m[39m[90m 70 | [39m          [36mif[39m(req[33m.[39mbody[33m.[39m[33mType[39m [33m!=[39m[32m'sell'[39m [33m||[39m req[33m.[39mbody[33m.[39m[33mType[39m [33m!=[39m)
+ [90m    | [39m                                                       [31m[1m^[22m[39m
+ [90m 71 | [39m
+ [90m 72 | [39m          [36mvar[39m error [33m=[39m req[33m.[39mvalidationErrors()
+ [90m 73 | [39m                [36mif[39m (error [33m&&[39m error[33m.[39mlength) {[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOp (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3435:42)
+    at Parser.pp$3.parseExprOp (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3435:25)
+    at Parser.pp$3.parseExprOp (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3438:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3408:17)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+2021-11-22T17:24:18.330Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (70:37)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (70:37)
+[0m [90m 68 | [39m          })
+ [90m 69 | [39m          }
+[31m[1m>[22m[39m[90m 70 | [39m          [36mif[39m(req[33m.[39mbody[33m.[39m[33mType[39m [33m!=[39m[32m'sell'[39m [33m|[39m[33m&&[39m req[33m.[39mbody[33m.[39m[33mType[39m [33m!=[39m[32m'buy'[39m) {
+ [90m    | [39m                                     [31m[1m^[22m[39m
+ [90m 71 | [39m            [36mreturn[39m nextCall ({
+ [90m 72 | [39m              message[33m:[39m [33mMessage[39m[33m.[39m[33mType_Valid[39m
+ [90m 73 | [39m          })[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOp (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3435:42)
+    at Parser.pp$3.parseExprOp (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3438:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3408:17)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+2021-11-22T17:25:11.758Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (89:12)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (89:12)
+[0m [90m 87 | [39m         
+ [90m 88 | [39m
+[31m[1m>[22m[39m[90m 89 | [39m          } [36melse[39m {
+ [90m    | [39m            [31m[1m^[22m[39m
+ [90m 90 | [39m            [36mreturn[39m nextCall({
+ [90m 91 | [39m              message[33m:[39m [33mMessage[39m[33m.[39m[33mNOT_FOUND[39m
+ [90m 92 | [39m            })[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp.expect (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1749:33)
+    at Parser.pp$3.parseExprList (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4296:12)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3714:28)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+2021-11-22T17:25:27.920Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (89:10)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (89:10)
+[0m [90m 87 | [39m         let save_trade_data [33m=[39m await 
+ [90m 88 | [39m
+[31m[1m>[22m[39m[90m 89 | [39m          } [36melse[39m {
+ [90m    | [39m          [31m[1m^[22m[39m
+ [90m 90 | [39m            [36mreturn[39m nextCall({
+ [90m 91 | [39m              message[33m:[39m [33mMessage[39m[33m.[39m[33mNOT_FOUND[39m
+ [90m 92 | [39m            })[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseAwait (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4365:24)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3652:23)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+2021-11-22T17:25:32.177Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (89:12)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (89:12)
+[0m [90m 87 | [39m         let save_trade_data [33m=[39m await [33mS[39m
+ [90m 88 | [39m
+[31m[1m>[22m[39m[90m 89 | [39m          } [36melse[39m {
+ [90m    | [39m            [31m[1m^[22m[39m
+ [90m 90 | [39m            [36mreturn[39m nextCall({
+ [90m 91 | [39m              message[33m:[39m [33mMessage[39m[33m.[39m[33mNOT_FOUND[39m
+ [90m 92 | [39m            })[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp.expect (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1749:33)
+    at Parser.pp$3.parseExprList (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4296:12)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3714:28)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+2021-11-22T17:25:34.193Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (89:12)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (89:12)
+[0m [90m 87 | [39m         let save_trade_data [33m=[39m await [33mStocks[39m[33m.[39mu
+ [90m 88 | [39m
+[31m[1m>[22m[39m[90m 89 | [39m          } [36melse[39m {
+ [90m    | [39m            [31m[1m^[22m[39m
+ [90m 90 | [39m            [36mreturn[39m nextCall({
+ [90m 91 | [39m              message[33m:[39m [33mMessage[39m[33m.[39m[33mNOT_FOUND[39m
+ [90m 92 | [39m            })[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp.expect (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1749:33)
+    at Parser.pp$3.parseExprList (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4296:12)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3714:28)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+2021-11-22T17:25:40.579Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (89:12)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (89:12)
+[0m [90m 87 | [39m         let save_trade_data [33m=[39m await [33mStocks[39m[33m.[39mcreate(body)
+ [90m 88 | [39m
+[31m[1m>[22m[39m[90m 89 | [39m          } [36melse[39m {
+ [90m    | [39m            [31m[1m^[22m[39m
+ [90m 90 | [39m            [36mreturn[39m nextCall({
+ [90m 91 | [39m              message[33m:[39m [33mMessage[39m[33m.[39m[33mNOT_FOUND[39m
+ [90m 92 | [39m            })[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp.expect (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1749:33)
+    at Parser.pp$3.parseExprList (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4296:12)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3714:28)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+2021-11-22T17:25:50.535Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (88:28)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (88:28)
+[0m [90m 86 | [39m
+ [90m 87 | [39m         let save_trade_data [33m=[39m await [33mStocks[39m[33m.[39mcreate(body)
+[31m[1m>[22m[39m[90m 88 | [39m         [36mif[39m(save_trade_data[33m.[39m)
+ [90m    | [39m                            [31m[1m^[22m[39m
+ [90m 89 | [39m
+ [90m 90 | [39m          } [36melse[39m {
+ [90m 91 | [39m            [36mreturn[39m nextCall({[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseIdentifier (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4332:10)
+    at Parser.pp$3.parseSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3517:30)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3306:19)
+2021-11-22T17:25:52.512Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (90:10)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (90:10)
+[0m [90m 88 | [39m         [36mif[39m(save_trade_data[33m.[39ml)
+ [90m 89 | [39m
+[31m[1m>[22m[39m[90m 90 | [39m          } [36melse[39m {
+ [90m    | [39m          [31m[1m^[22m[39m
+ [90m 91 | [39m            [36mreturn[39m nextCall({
+ [90m 92 | [39m              message[33m:[39m [33mMessage[39m[33m.[39m[33mNOT_FOUND[39m
+ [90m 93 | [39m            })[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3306:19)
+    at Parser.pp$1.parseStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1906:19)
+2021-11-22T17:25:54.540Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (90:10)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (90:10)
+[0m [90m 88 | [39m         [36mif[39m(save_trade_data)
+ [90m 89 | [39m
+[31m[1m>[22m[39m[90m 90 | [39m          } [36melse[39m {
+ [90m    | [39m          [31m[1m^[22m[39m
+ [90m 91 | [39m            [36mreturn[39m nextCall({
+ [90m 92 | [39m              message[33m:[39m [33mMessage[39m[33m.[39m[33mNOT_FOUND[39m
+ [90m 93 | [39m            })[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3306:19)
+    at Parser.pp$1.parseStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1906:19)
+2021-11-22T17:25:58.980Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (92:12)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (92:12)
+[0m [90m 90 | [39m         }
+ [90m 91 | [39m
+[31m[1m>[22m[39m[90m 92 | [39m          } [36melse[39m {
+ [90m    | [39m            [31m[1m^[22m[39m
+ [90m 93 | [39m            [36mreturn[39m nextCall({
+ [90m 94 | [39m              message[33m:[39m [33mMessage[39m[33m.[39m[33mNOT_FOUND[39m
+ [90m 95 | [39m            })[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp.expect (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1749:33)
+    at Parser.pp$3.parseExprList (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4296:12)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3714:28)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+2021-11-22T17:26:00.925Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (92:12)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (92:12)
+[0m [90m 90 | [39m         }
+ [90m 91 | [39m
+[31m[1m>[22m[39m[90m 92 | [39m          } [36melse[39m {
+ [90m    | [39m            [31m[1m^[22m[39m
+ [90m 93 | [39m            [36mreturn[39m nextCall({
+ [90m 94 | [39m              message[33m:[39m [33mMessage[39m[33m.[39m[33mNOT_FOUND[39m
+ [90m 95 | [39m            })[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp.expect (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1749:33)
+    at Parser.pp$3.parseExprList (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4296:12)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3714:28)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+2021-11-22T17:26:05.977Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (92:12)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (92:12)
+[0m [90m 90 | [39m         }
+ [90m 91 | [39m
+[31m[1m>[22m[39m[90m 92 | [39m          } [36melse[39m {
+ [90m    | [39m            [31m[1m^[22m[39m
+ [90m 93 | [39m            [36mreturn[39m nextCall({
+ [90m 94 | [39m              message[33m:[39m [33mMessage[39m[33m.[39m[33mNOT_FOUND[39m
+ [90m 95 | [39m            })[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp.expect (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1749:33)
+    at Parser.pp$3.parseExprList (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4296:12)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3714:28)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+2021-11-22T17:26:07.665Z [x-code] [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (F:\Practice\stock_api\node_modules\express\lib\router\route.js:202:15)
+    at Function.proto.<computed> [as get] (F:\Practice\stock_api\node_modules\express\lib\router\index.js:510:19)
+    at Object.<anonymous> (F:/Practice/stock_api/api/src/routes/router.js:13:8)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at loader (F:\Practice\stock_api\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.<computed> [as .js] (F:\Practice\stock_api\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-22T17:26:08.922Z [x-code] [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (F:\Practice\stock_api\node_modules\express\lib\router\route.js:202:15)
+    at Function.proto.<computed> [as get] (F:\Practice\stock_api\node_modules\express\lib\router\index.js:510:19)
+    at Object.<anonymous> (F:/Practice/stock_api/api/src/routes/router.js:13:8)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at loader (F:\Practice\stock_api\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.<computed> [as .js] (F:\Practice\stock_api\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-22T17:26:21.776Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (93:8)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (93:8)
+[0m [90m 91 | [39m
+ [90m 92 | [39m          }
+[31m[1m>[22m[39m[90m 93 | [39m        }[33m,[39m
+ [90m    | [39m        [31m[1m^[22m[39m
+ [90m 94 | [39m
+ [90m 95 | [39m      ][33m,[39m
+ [90m 96 | [39m      (err[33m,[39m data[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp.expect (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1749:33)
+    at Parser.pp$3.parseExprList (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4296:12)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3714:28)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+2021-11-22T17:26:23.989Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (97:8)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (97:8)
+[0m [90m  95 | [39m        }
+ [90m  96 | [39m          }
+[31m[1m>[22m[39m[90m  97 | [39m        }[33m,[39m
+ [90m     | [39m        [31m[1m^[22m[39m
+ [90m  98 | [39m
+ [90m  99 | [39m      ][33m,[39m
+ [90m 100 | [39m      (err[33m,[39m data[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp.expect (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1749:33)
+    at Parser.pp$3.parseExprList (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4296:12)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3714:28)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+2021-11-22T17:26:35.489Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (97:8)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (97:8)
+[0m [90m  95 | [39m        }
+ [90m  96 | [39m          }
+[31m[1m>[22m[39m[90m  97 | [39m        }
+ [90m     | [39m        [31m[1m^[22m[39m
+ [90m  98 | [39m        }[33m,[39m
+ [90m  99 | [39m
+ [90m 100 | [39m      ][33m,[39m[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp.expect (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1749:33)
+    at Parser.pp$3.parseExprList (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4296:12)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3714:28)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+2021-11-22T17:39:15.268Z [x-code] [31merror[39m: uncaughtException: flash is not defined
+ReferenceError: flash is not defined
+    at Object.<anonymous> (F:/Practice/stock_api/app.js:43:5)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at loader (F:\Practice\stock_api\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.<computed> [as .js] (F:\Practice\stock_api\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (F:/Practice/stock_api/bin/www:6:13)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-22T17:39:18.095Z [x-code] [31merror[39m: uncaughtException: flash is not defined
+ReferenceError: flash is not defined
+    at Object.<anonymous> (F:/Practice/stock_api/app.js:69:5)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at loader (F:\Practice\stock_api\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.<computed> [as .js] (F:\Practice\stock_api\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (F:/Practice/stock_api/bin/www:6:13)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-22T17:39:21.231Z [x-code] [31merror[39m: uncaughtException: flash is not defined
+ReferenceError: flash is not defined
+    at Object.<anonymous> (F:/Practice/stock_api/app.js:63:5)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at loader (F:\Practice\stock_api\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.<computed> [as .js] (F:\Practice\stock_api\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (F:/Practice/stock_api/bin/www:6:13)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-22T17:42:31.082Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (16:10)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (16:10)
+[0m [90m 14 | [39m          [36mif[39m(req[33m.[39mquery)
+ [90m 15 | [39m
+[31m[1m>[22m[39m[90m 16 | [39m          let data [33m=[39m await [33mStocks[39m[33m.[39mfindAll()
+ [90m    | [39m          [31m[1m^[22m[39m
+ [90m 17 | [39m
+ [90m 18 | [39m
+ [90m 19 | [39m          [36mif[39m (data) {[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$1.parseStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1858:30)
+    at Parser.pp$1.parseIfStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2059:26)
+    at Parser.pp$1.parseStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1846:19)
+    at Parser.pp$1.parseBlockBody (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2268:21)
+    at Parser.pp$1.parseBlock (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2247:8)
+    at Parser.pp$3.parseFunctionBody (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4235:22)
+    at Parser.pp$3.parseArrowExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4190:8)
+    at Parser.pp$3.parseAsyncArrowFromCallExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3590:15)
+2021-11-22T17:42:45.547Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (15:10)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (15:10)
+[0m [90m 13 | [39m        async (nextCall) [33m=>[39m {
+ [90m 14 | [39m          let 
+[31m[1m>[22m[39m[90m 15 | [39m          [36mif[39m(req[33m.[39mquery) {
+ [90m    | [39m          [31m[1m^[22m[39m
+ [90m 16 | [39m
+ [90m 17 | [39m          }
+ [90m 18 | [39m          [36melse[39m{[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$2.parseBindingAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3090:12)
+    at Parser.pp$1.parseVarHead (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2355:18)
+    at Parser.pp$1.parseVar (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2338:10)
+    at Parser.pp$1.parseVarStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2169:8)
+    at Parser.pp$1.parseStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1861:19)
+    at Parser.pp$1.parseBlockBody (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2268:21)
+    at Parser.pp$1.parseBlock (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2247:8)
+    at Parser.pp$3.parseFunctionBody (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4235:22)
+2021-11-22T17:43:54.784Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (15:40)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (15:40)
+[0m [90m 13 | [39m        async (nextCall) [33m=>[39m {
+ [90m 14 | [39m          let stock_data[33m=[39m[]
+[31m[1m>[22m[39m[90m 15 | [39m          [36mif[39m(req[33m.[39mquery[33m.[39mbuy [33m&&[39m req[33m.[39mquery[33m.[39m) {
+ [90m    | [39m                                        [31m[1m^[22m[39m
+ [90m 16 | [39m
+ [90m 17 | [39m          }
+ [90m 18 | [39m          [36melse[39m{[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseIdentifier (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4332:10)
+    at Parser.pp$3.parseSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3517:30)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOp (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3435:42)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3408:17)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+2021-11-22T17:44:00.534Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (15:41)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (15:41)
+[0m [90m 13 | [39m        async (nextCall) [33m=>[39m {
+ [90m 14 | [39m          let stock_data[33m=[39m[]
+[31m[1m>[22m[39m[90m 15 | [39m          [36mif[39m(req[33m.[39mquery[33m.[39mtype [33m&&[39m req[33m.[39mquery[33m.[39m) {
+ [90m    | [39m                                         [31m[1m^[22m[39m
+ [90m 16 | [39m
+ [90m 17 | [39m          }
+ [90m 18 | [39m          [36melse[39m{[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseIdentifier (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4332:10)
+    at Parser.pp$3.parseSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3517:30)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOp (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3435:42)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3408:17)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+2021-11-22T17:44:24.797Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (20:16)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (20:16)
+[0m [90m 18 | [39m                where[33m:[39m{
+ [90m 19 | [39m                  type[33m:[39m
+[31m[1m>[22m[39m[90m 20 | [39m                }
+ [90m    | [39m                [31m[1m^[22m[39m
+ [90m 21 | [39m              }
+ [90m 22 | [39m            )
+ [90m 23 | [39m          }[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseObjectProperty (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4115:99)
+    at Parser.pp$3.parseObjPropValue (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4140:84)
+2021-11-22T17:44:30.547Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (20:16)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (20:16)
+[0m [90m 18 | [39m                where[33m:[39m{
+ [90m 19 | [39m                  [33mType[39m[33m:[39m
+[31m[1m>[22m[39m[90m 20 | [39m                }
+ [90m    | [39m                [31m[1m^[22m[39m
+ [90m 21 | [39m              }
+ [90m 22 | [39m            )
+ [90m 23 | [39m          }[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseObjectProperty (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4115:99)
+    at Parser.pp$3.parseObjPropValue (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4140:84)
+2021-11-22T17:44:47.672Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (21:16)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (21:16)
+[0m [90m 19 | [39m                  [33mType[39m[33m:[39mreq[33m.[39mquery[33m.[39mtype[33m,[39m
+ [90m 20 | [39m                  [33mUser_id[39m[33m:[39m
+[31m[1m>[22m[39m[90m 21 | [39m                }
+ [90m    | [39m                [31m[1m^[22m[39m
+ [90m 22 | [39m              }
+ [90m 23 | [39m            )
+ [90m 24 | [39m          }[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseObjectProperty (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4115:99)
+    at Parser.pp$3.parseObjPropValue (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4140:84)
+2021-11-22T17:48:23.841Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (67:18)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (67:18)
+[0m [90m 65 | [39m
+ [90m 66 | [39m[90m//api to get single user stock data info[39m
+[31m[1m>[22m[39m[90m 67 | [39mget_stocks_by_user[33m-[39mid[33m:[39m async (req[33m,[39m res) [33m=>[39m {
+ [90m    | [39m                  [31m[1m^[22m[39m
+ [90m 68 | [39m
+ [90m 69 | [39m  async[33m.[39mwaterfall(
+ [90m 70 | [39m    [[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp.expect (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1749:33)
+    at Parser.pp$3.parseObj (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3978:12)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3719:19)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+2021-11-22T17:52:29.327Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (166:9)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (166:9)
+[0m [90m 164 | [39m              [36mif[39m(find_if_existing_id)
+ [90m 165 | [39m
+[31m[1m>[22m[39m[90m 166 | [39m         let save_trade_data [33m=[39m await [33mStocks[39m[33m.[39mcreate(body)
+ [90m     | [39m         [31m[1m^[22m[39m
+ [90m 167 | [39m         [36mif[39m(save_trade_data){
+ [90m 168 | [39m           nextCall([36mnull[39m[33m,[39msave_trade_data)
+ [90m 169 | [39m         }[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$1.parseStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1858:30)
+    at Parser.pp$1.parseIfStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2059:26)
+    at Parser.pp$1.parseStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1846:19)
+    at Parser.pp$1.parseBlockBody (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2268:21)
+    at Parser.pp$1.parseBlock (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2247:8)
+    at Parser.pp$3.parseFunctionBody (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4235:22)
+    at Parser.pp$3.parseArrowExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4190:8)
+    at Parser.pp$3.parseAsyncArrowFromCallExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3590:15)
+2021-11-22T17:59:22.610Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (79:10)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (79:10)
+[0m [90m 77 | [39m
+ [90m 78 | [39m
+[31m[1m>[22m[39m[90m 79 | [39m          [36mif[39m (stock_data[33m.[39mlength [33m>[39m [35m0[39m) {
+ [90m    | [39m          [31m[1m^[22m[39m
+ [90m 80 | [39m            nextCall([36mnull[39m[33m,[39m stock_data
+ [90m 81 | [39m
+ [90m 82 | [39m            )[33m;[39m[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseAwait (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4365:24)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3652:23)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+2021-11-22T17:59:39.692Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (77:10)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (77:10)
+[0m [90m 75 | [39m          let find_by_id [33m=[39m await [33mStocks[39m[33m.[39mfindOne({where[33m:[39m{
+ [90m 76 | [39m            id[33m:[39m
+[31m[1m>[22m[39m[90m 77 | [39m          }})
+ [90m    | [39m          [31m[1m^[22m[39m
+ [90m 78 | [39m
+ [90m 79 | [39m
+ [90m 80 | [39m[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseObjectProperty (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4115:99)
+    at Parser.pp$3.parseObjPropValue (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4140:84)
+2021-11-22T17:59:47.641Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected ( (82:10)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected ( (82:10)
+[0m [90m 80 | [39m
+ [90m 81 | [39m
+[31m[1m>[22m[39m[90m 82 | [39m          [36mif[39m (stock_data[33m.[39mlength [33m>[39m [35m0[39m) {
+ [90m    | [39m          [31m[1m^[22m[39m
+ [90m 83 | [39m            nextCall([36mnull[39m[33m,[39m stock_data
+ [90m 84 | [39m
+ [90m 85 | [39m            )[33m;[39m[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp.expect (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1749:33)
+    at Parser.pp$3.parseParenExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3788:8)
+    at Parser.pp$1.parseIfStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2058:20)
+    at Parser.pp$1.parseStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1846:19)
+    at Parser.pp$1.parseBlockBody (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2268:21)
+    at Parser.pp$1.parseBlock (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2247:8)
+    at Parser.pp$3.parseFunctionBody (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4235:22)
+    at Parser.pp$3.parseArrowExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4190:8)
+2021-11-22T18:00:19.040Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (81:10)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (81:10)
+[0m [90m 79 | [39m            nextCall([36mnull[39m[33m,[39m stock_data
+ [90m 80 | [39m
+[31m[1m>[22m[39m[90m 81 | [39m          }
+ [90m    | [39m          [31m[1m^[22m[39m
+ [90m 82 | [39m
+ [90m 83 | [39m
+ [90m 84 | [39m[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp.expect (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1749:33)
+    at Parser.pp$3.parseCallExpressionArguments (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3564:12)
+    at Parser.pp$3.parseSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3533:31)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+2021-11-22T18:02:46.357Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (73:26)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (73:26)
+[0m [90m 71 | [39m
+ [90m 72 | [39m        async (nextCall) [33m=>[39m {
+[31m[1m>[22m[39m[90m 73 | [39m          console[33m.[39mlog(req[33m.[39m)
+ [90m    | [39m                          [31m[1m^[22m[39m
+ [90m 74 | [39m          req[33m.[39mcheckQuery([32m'id'[39m[33m,[39m [33mMessage[39m[33m.[39m[33mID_MISSING[39m)[33m.[39mnotEmpty()
+ [90m 75 | [39m
+ [90m 76 | [39m          let find_by_id [33m=[39m await [33mStocks[39m[33m.[39mfindOne({where[33m:[39m{[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseIdentifier (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4332:10)
+    at Parser.pp$3.parseSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3517:30)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseExprListItem (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4312:16)
+2021-11-22T18:05:21.240Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (76:10)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (76:10)
+[0m [90m 74 | [39m         [36mif[39m(req[33m.[39mparams[33m.[39mid)
+ [90m 75 | [39m
+[31m[1m>[22m[39m[90m 76 | [39m          let find_by_id [33m=[39m await [33mStocks[39m[33m.[39mfindOne({where[33m:[39m{
+ [90m    | [39m          [31m[1m^[22m[39m
+ [90m 77 | [39m            id[33m:[39mreq[33m.[39mquery[33m.[39mid
+ [90m 78 | [39m          }})
+ [90m 79 | [39m          [36mif[39m(find_by_id) {[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$1.parseStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1858:30)
+    at Parser.pp$1.parseIfStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2059:26)
+    at Parser.pp$1.parseStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1846:19)
+    at Parser.pp$1.parseBlockBody (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2268:21)
+    at Parser.pp$1.parseBlock (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2247:8)
+    at Parser.pp$3.parseFunctionBody (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4235:22)
+    at Parser.pp$3.parseArrowExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4190:8)
+    at Parser.pp$3.parseAsyncArrowFromCallExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3590:15)
+2021-11-22T18:05:22.473Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (76:10)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (76:10)
+[0m [90m 74 | [39m         [36mif[39m(req[33m.[39mparams[33m.[39mid)
+ [90m 75 | [39m
+[31m[1m>[22m[39m[90m 76 | [39m          let find_by_id [33m=[39m await [33mStocks[39m[33m.[39mfindOne({where[33m:[39m{
+ [90m    | [39m          [31m[1m^[22m[39m
+ [90m 77 | [39m            id[33m:[39mreq[33m.[39mquery[33m.[39mid
+ [90m 78 | [39m          }})
+ [90m 79 | [39m          [36mif[39m(find_by_id) {[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$1.parseStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1858:30)
+    at Parser.pp$1.parseIfStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2059:26)
+    at Parser.pp$1.parseStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1846:19)
+    at Parser.pp$1.parseBlockBody (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2268:21)
+    at Parser.pp$1.parseBlock (F:\Practice\stock_api\node_modules\babylon\lib\index.js:2247:8)
+    at Parser.pp$3.parseFunctionBody (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4235:22)
+    at Parser.pp$3.parseArrowExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4190:8)
+    at Parser.pp$3.parseAsyncArrowFromCallExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3590:15)
+2021-11-22T18:09:38.520Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (233:9)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (233:9)
+[0m [90m 231 | [39m
+ [90m 232 | [39m
+[31m[1m>[22m[39m[90m 233 | [39m        }[33m,[39m
+ [90m     | [39m         [31m[1m^[22m[39m
+ [90m 234 | [39m
+ [90m 235 | [39m      ][33m,[39m
+ [90m 236 | [39m      (err[33m,[39m data[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3306:19)
+    at Parser.pp$1.parseStatement (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1906:19)
+2021-11-22T18:12:24.354Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/routes/router.js: Unexpected token (19:39)
+SyntaxError: F:/Practice/stock_api/api/src/routes/router.js: Unexpected token (19:39)
+[0m [90m 17 | [39mrouter[33m.[39mget([32m'/trades/:id'[39m[33m,[39m[33mStocks_ctl[39m[33m.[39mget_stocks_by_Id)
+ [90m 18 | [39m
+[31m[1m>[22m[39m[90m 19 | [39mrouter[33m.[39m[36mdelete[39m([32m'/trades/:id'[39m[33m,[39m[33mStocks_ctl[39m[33m.[39m)
+ [90m    | [39m                                       [31m[1m^[22m[39m
+ [90m 20 | [39m
+ [90m 21 | [39m
+ [90m 22 | [39m[90m// exports router[39m[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseIdentifier (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4332:10)
+    at Parser.pp$3.parseSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3517:30)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseExprListItem (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4312:16)
+2021-11-22T18:20:01.334Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (293:12)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (293:12)
+[0m [90m 291 | [39m            [36mreturn[39m nextCall({
+ [90m 292 | [39m              message[33m:[39m 
+[31m[1m>[22m[39m[90m 293 | [39m            })
+ [90m     | [39m            [31m[1m^[22m[39m
+ [90m 294 | [39m          }
+ [90m 295 | [39m
+ [90m 296 | [39m          [36mvar[39m error [33m=[39m req[33m.[39mvalidationErrors()[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseObjectProperty (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4115:99)
+    at Parser.pp$3.parseObjPropValue (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4140:84)
+2021-11-22T18:20:11.333Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (292:21)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token, expected , (292:21)
+[0m [90m 290 | [39m          [36mif[39m ([33m![39mreq[33m.[39mparams[33m.[39mid) {
+ [90m 291 | [39m            [36mreturn[39m nextCall({
+[31m[1m>[22m[39m[90m 292 | [39m              message[33m.[39m
+ [90m     | [39m                     [31m[1m^[22m[39m
+ [90m 293 | [39m            })
+ [90m 294 | [39m          }
+ [90m 295 | [39m[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp.expect (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1749:33)
+    at Parser.pp$3.parseObj (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3978:12)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3719:19)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+2021-11-22T18:20:15.782Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (293:12)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (293:12)
+[0m [90m 291 | [39m            [36mreturn[39m nextCall({
+ [90m 292 | [39m              message[33m:[39m[33mMessage[39m[33m.[39m
+[31m[1m>[22m[39m[90m 293 | [39m            })
+ [90m     | [39m            [31m[1m^[22m[39m
+ [90m 294 | [39m          }
+ [90m 295 | [39m
+ [90m 296 | [39m          [36mvar[39m error [33m=[39m req[33m.[39mvalidationErrors()[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseIdentifier (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4332:10)
+    at Parser.pp$3.parseSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3517:30)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseObjectProperty (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4115:99)
+2021-11-22T18:22:50.035Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/routes/router.js: Unexpected token (21:36)
+SyntaxError: F:/Practice/stock_api/api/src/routes/router.js: Unexpected token (21:36)
+[0m [90m 19 | [39mrouter[33m.[39m[36mdelete[39m([32m'/trades/:id'[39m[33m,[39m[33mStocks_ctl[39m[33m.[39mdelete_trade_entry_by_id)
+ [90m 20 | [39m
+[31m[1m>[22m[39m[90m 21 | [39mrouter[33m.[39mput([32m'/trades/:id'[39m[33m,[39m[33mStocks_ctl[39m[33m.[39m)
+ [90m    | [39m                                    [31m[1m^[22m[39m
+ [90m 22 | [39m
+ [90m 23 | [39m[90m// router.patch('/trades/:id',Stocks_ctl.delete_trade_entry_by_id)[39m
+ [90m 24 | [39m[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseIdentifier (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4332:10)
+    at Parser.pp$3.parseSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3517:30)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseExprListItem (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4312:16)
+2021-11-22T18:26:46.196Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (311:60)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (311:60)
+[0m [90m 309 | [39m          [36mif[39m (find_if_existing_id) {
+ [90m 310 | [39m
+[31m[1m>[22m[39m[90m 311 | [39m            let save_trade_data [33m=[39m await [33mStocks[39m[33m.[39mupdate({body[33m,[39m{where[33m:[39m{id[33m:[39mreq[33m.[39mparams[33m.[39mid}})[33m.[39m[36mcatch[39m((err) [33m=>[39m {
+ [90m     | [39m                                                            [31m[1m^[22m[39m
+ [90m 312 | [39m              console[33m.[39mlog(err)
+ [90m 313 | [39m              [36mreturn[39m [35m0[39m
+ [90m 314 | [39m          })[33m;[39m[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseIdentifier (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4332:10)
+    at Parser.pp$3.parsePropertyName (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4156:96)
+    at Parser.pp$3.parseObj (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4045:12)
+    at Parser.pp$3.parseExprAtom (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3719:19)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+2021-11-22T18:32:20.362Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/routes/router.js: Unexpected token (21:36)
+SyntaxError: F:/Practice/stock_api/api/src/routes/router.js: Unexpected token (21:36)
+[0m [90m 19 | [39mrouter[33m.[39m[36mdelete[39m([32m'/trades/:id'[39m[33m,[39m[33mStocks_ctl[39m[33m.[39mdelete_trade_entry_by_id)
+ [90m 20 | [39m
+[31m[1m>[22m[39m[90m 21 | [39mrouter[33m.[39mput([32m'/trades/:id'[39m[33m,[39m[33mStocks_ctl[39m[33m.[39m)
+ [90m    | [39m                                    [31m[1m^[22m[39m
+ [90m 22 | [39m
+ [90m 23 | [39m[90m// router.patch('/trades/:id',Stocks_ctl.delete_trade_entry_by_id)[39m
+ [90m 24 | [39m[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseIdentifier (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4332:10)
+    at Parser.pp$3.parseSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3517:30)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseExprListItem (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4312:16)
+2021-11-22T18:33:10.847Z [x-code] [31merror[39m: uncaughtException: Route.patch() requires a callback function but got a [object Undefined]
+Error: Route.patch() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as patch] (F:\Practice\stock_api\node_modules\express\lib\router\route.js:202:15)
+    at Function.proto.<computed> [as patch] (F:\Practice\stock_api\node_modules\express\lib\router\index.js:510:19)
+    at Object.<anonymous> (F:/Practice/stock_api/api/src/routes/router.js:23:9)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at loader (F:\Practice\stock_api\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.<computed> [as .js] (F:\Practice\stock_api\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-22T18:34:14.091Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (372:22)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (372:22)
+[0m [90m 370 | [39m            })
+ [90m 371 | [39m          }
+[31m[1m>[22m[39m[90m 372 | [39m          [36mif[39m(req[33m.[39mbody[33m.[39m)
+ [90m     | [39m                      [31m[1m^[22m[39m
+ [90m 373 | [39m          [36mif[39m (req[33m.[39mbody[33m.[39m[33mType[39m [33m!=[39m [32m'sell'[39m [33m&&[39m req[33m.[39mbody[33m.[39m[33mType[39m [33m!=[39m [32m'buy'[39m) {
+ [90m 374 | [39m            [36mreturn[39m nextCall({
+ [90m 375 | [39m              message[33m:[39m [33mMessage[39m[33m.[39m[33mType_Valid[39m[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseIdentifier (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4332:10)
+    at Parser.pp$3.parseSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3517:30)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3306:19)
+2021-11-22T18:34:34.056Z [x-code] [31merror[39m: uncaughtException: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (366:22)
+SyntaxError: F:/Practice/stock_api/api/src/controllers/stocks.js: Unexpected token (366:22)
+[0m [90m 364 | [39m        async (nextCall) [33m=>[39m {
+ [90m 365 | [39m
+[31m[1m>[22m[39m[90m 366 | [39m          [36mif[39m(req[33m.[39mbody[33m.[39m)
+ [90m     | [39m                      [31m[1m^[22m[39m
+ [90m 367 | [39m          [36mif[39m (req[33m.[39mbody[33m.[39m[33mShares[39m [33m<[39m [35m1[39m [33m||[39m req[33m.[39mbody[33m.[39m[33mShares[39m [33m>[39m [35m100[39m) {
+ [90m 368 | [39m            [36mreturn[39m nextCall({
+ [90m 369 | [39m              message[33m:[39m [33mMessage[39m[33m.[39m[33mShare_value_range[39m[0m
+    at Parser.pp$5.raise (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (F:\Practice\stock_api\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseIdentifier (F:\Practice\stock_api\node_modules\babylon\lib\index.js:4332:10)
+    at Parser.pp$3.parseSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3517:30)
+    at Parser.pp$3.parseExprSubscripts (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseExpression (F:\Practice\stock_api\node_modules\babylon\lib\index.js:3306:19)
